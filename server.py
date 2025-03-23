@@ -1,3 +1,5 @@
+## ADD COMMENTS 
+
 #importing the nessessary modules
 from socket import *
 import sys 
